@@ -66,6 +66,7 @@ body{
 
 .form .inputs .input.text{
     height: 100px;
+    resize: none;
 }
 
 .form .obrigatorio{
